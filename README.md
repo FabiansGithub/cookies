@@ -1,2 +1,3 @@
 # cookies
 Mein Keksrezept
+... ist für Übungszwecke um Git zu verstehen ...
